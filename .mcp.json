@@ -1,15 +1,10 @@
 {
   "mcpServers": {
     "open-knowledge": {
-      "command": "node",
+      "command": "/Applications/Open Knowledge.app/Contents/Resources/cli/bin/ok.sh",
       "args": [
-        "/Users/mileskaming-thanassi/agents-private/.claude/worktrees/agent-presence-all-tools/public/open-knowledge/packages/cli/dist/cli.mjs",
         "mcp"
-      ],
-      "env": {
-        "MCP_DEBUG": "1",
-        "OK_LOG_FILE": "/tmp/ok-mcp.log"
-      }
+      ]
     }
   }
 }
