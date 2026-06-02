@@ -3,7 +3,7 @@ name: open-knowledge
 description: "MUST invoke before reading or editing any `.md` / `.mdx` file, and before any `mcp__open-knowledge__*` tool call (`exec`, `search`, `write_document`, `edit_document`, and the rest). This skill is installed into the repository by `ok init`, so its presence alone means this is an Open Knowledge project — its runtime contract governs every markdown file here, with no need to probe for a `.ok/` directory. Authoritative agent-runtime contract; supersedes the overlapping MCP server `instructions` echo."
 compatibility: "Claude Code, Claude Desktop, Claude Cowork, Claude.ai web. Requires Open Knowledge MCP server + code execution."
 metadata:
-  version: "0.9.0-beta.33"
+  version: "0.9.0-beta.36"
   author: "Inkeep"
   repository: "https://github.com/inkeep/open-knowledge"
 ---
@@ -99,6 +99,8 @@ OK Electron and `ok ui` share `ui.lock`; when a second UI binds a different port
 ## Writing
 
 Call `write_document` / `edit_document` as soon as you have content. Native `Edit` / `sed` / direct `Write` on in-scope markdown is forbidden — it bypasses the CRDT and loses agent attribution in the shadow repo.
+
+To author an MDX doc (the KB renders MDX/JSX components), pass a `.mdx` `docName` on the create: `write_document({ docName: "guides/widget.mdx", markdown, position: "replace" })` lands `guides/widget.mdx`. A `.md` or extension-less `docName` lands `.md`. An existing doc keeps its on-disk extension regardless of the suffix you pass — changing it in place isn't available via the MCP today.
 
 To delete a doc, call `delete_document` — never `rm` / `unlink` / native `Bash` removal on in-scope markdown. The MCP path closes open agent sessions and unloads the doc from Hocuspocus before unlinking; native `rm` desynchronizes those. Deletion is irreversible — call `version({ action: "save" })` first if you may need to roll back (restore via `version({ action: "rollback" })`; list snapshots via `get_history`), and `links({ kind: "backlinks", docName })` first if you want to fix referrers that will become redlinks. To move or rename a doc instead of delete + rewrite, use `rename({ from, to })` — it auto-detects file vs folder and rewrites incoming references atomically.
 
