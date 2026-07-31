@@ -45,6 +45,10 @@ The Apollo Theater is open and operating in 2026 under the Apollo Theater Founda
 - [jazz](../../../genres/jazz/overview.md)
 - [Harlem](../overview.md)
 
+## Amateur Night
+
+Amateur Night has run at the Apollo since 1934 and remains the single most durable talent-discovery format in American popular music. The audience is the judge, and the tradition of booing an unconvincing act off the stage is treated as part of the contract rather than a lapse in manners.
+
 ## Further reading
 
 - Wikipedia: Apollo Theater — [https://en.wikipedia.org/wiki/Apollo\_Theater](https://en.wikipedia.org/wiki/Apollo_Theater)
