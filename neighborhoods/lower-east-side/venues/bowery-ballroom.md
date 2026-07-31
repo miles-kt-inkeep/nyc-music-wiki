@@ -10,7 +10,7 @@ tags:
 ---
 # Bowery Ballroom
 
-The Bowery Ballroom is a concert venue at 6 Delancey Street, a half-block from the Bowery in the [Lower East Side](../overview.md), that opened in 1998. Operated by the Bowery Presents collective, it has a capacity of roughly 575 and is widely considered the most acoustically generous mid-size room in New York. It became the launchpad for the early-2000s [post-punk revival](../../../genres/post-punk-revival/overview.md) and remains a near-mandatory stop for indie acts moving from clubs to theaters.
+The Bowery Ballroom is a concert venue at 6 Delancey Street, a half-block from the Bowery in the [Lower East Side](../overview.md), that opened in 1998. Operated by the Bowery Presents collective, it has a capacity of roughly 575 and is widely considered the most acoustically generous mid-size room in New York. It became the launchpad for the early-2000s [post-punk revival](../../../genres/post-punk-revival/overview.md) and is still the room most bands play on the way up from the clubs to the theaters.
 
 ## Location and history
 

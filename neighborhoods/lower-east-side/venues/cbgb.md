@@ -11,7 +11,7 @@ tags:
 ---
 # CBGB
 
-CBGB, short for "Country, Bluegrass, and Blues," operated at 315 Bowery on the corner of Bleecker Street in the [Lower East Side](../overview.md) from December 1973 until October 2006. Despite the country-leaning name picked by its founder, the cramped, awning-shaded room became the global epicenter of [punk rock](../../../genres/punk-rock/overview.md) and [new wave](../../../genres/new-wave/overview.md), launching a generation of bands that defined downtown New York. Its narrow corridor stage, graffitied bathrooms, and Hilly Kristal's gruff stewardship turned the venue into a pilgrimage site for fans worldwide.
+CBGB, short for "Country, Bluegrass, and Blues," operated at 315 Bowery on the corner of Bleecker Street in the [Lower East Side](../overview.md) from December 1973 until October 2006. Despite the country-leaning name picked by its founder, the cramped, awning-shaded room became the global epicenter of [punk rock](../../../genres/punk-rock/overview.md) and [new wave](../../../genres/new-wave/overview.md), launching a generation of bands that defined downtown New York. Its narrow corridor stage, graffitied bathrooms, and Hilly Kristal's gruff stewardship made the room a pilgrimage site, and the awning became one of the most photographed pieces of signage in American music.
 
 ## Location and history
 
