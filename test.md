@@ -1,1 +1,1 @@
-testing cloud -> git co
+testing cloud -> git commit
