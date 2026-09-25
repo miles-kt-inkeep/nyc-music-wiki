@@ -70,5 +70,3 @@ For a live snapshot of what's playing in the wiki's currently-operating rooms, s
 ## Browse
 
 The four section folders are the canonical entry points. Each folder's contents are listed live by the wiki's directory view — there is no separate index file. Use the section bullets above, or open the folder views in the preview UI.
-
-<img src="/Jorge raff _1_.gif" />
