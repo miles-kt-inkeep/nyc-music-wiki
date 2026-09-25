@@ -151,3 +151,4 @@ What to log:
 - Sources ingested: none (see sourcing approach above — `external-sources/` not introduced this turn).
 - Verification: `links({ kind: 'dead', sourceDocNames: ['concerts/upcoming-2026'] })` returns clean (zero dead links across all 27 internal cross-refs and 19 external URLs in Further reading).
 - Open follow-ups: update the [Saint Vitus](./neighborhoods/greenpoint/venues/saint-vitus.md) page to reflect its 2024-08-17 permanent closure (currently described as operating); refresh this concerts page monthly while the Forest Hills season runs (the small-club horizons will continue rolling forward, July–August counts will rise); consider promoting the most-stable sources (Time Out FHS lineup, Wikipedia Saint Vitus closure) to ingested wrappers under a new `external-sources/` folder when the closed-loop chain becomes worth the bookkeeping cost.
+conflict test
