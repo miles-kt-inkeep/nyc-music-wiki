@@ -8,7 +8,7 @@ tags:
   - brooklyn
   - hub
 ---
-# Brooklyn — borough overview
+# Brooklyn — overview
 
 Brooklyn is the New York borough that, since roughly 2000, has held the city's actual musical center of gravity — the rooms where the bands play, the lofts where the records get made, the projects where the rappers grew up, and the warehouses where the dance scene migrated when Manhattan's clubs were priced out. For most of the 20th century Brooklyn was a residential and industrial counterweight to Manhattan; in the 21st it has become the loud half of New York.
 
